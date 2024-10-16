@@ -4,5 +4,5 @@
         "text2img": "text2img"
     },
     "apiKey": "09163ecd-953d-426b-8f29-53d669e4b9a2",
-    "timeout": 400
+    "timeout": 4000
 }
